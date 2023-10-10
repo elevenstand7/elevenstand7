@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 Welcome to my Github Page. I am Yinyin Huang and I am learning different kinds of frontend and backend frameworks. I am proficient in several programming languages, including Python, JavaScript, Ruby, and C++.
 
 <!--
 **elevenstand7/elevenstand7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@ Hi there! 👋 Welcome to my Github Page. I am Yinyin Huang and I am learning di
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevenstand7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevenstand7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  My favorite tools and technologies🔧:
 

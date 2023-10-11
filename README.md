@@ -1,8 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevenstand7)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi there! 👋 Welcome to my Github Page. I am Yinyin Huang and I am learning different kinds of frontend and backend frameworks. I am proficient in several programming languages, including Python, JavaScript, Ruby, and C++.
 
 ##  Proficient Programming Languages💻:
@@ -11,6 +9,8 @@ Hi there! 👋 Welcome to my Github Page. I am Yinyin Huang and I am learning di
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevenstand7)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  My favorite tools and technologies🔧:
 

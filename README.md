@@ -1,7 +1,7 @@
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elevenstand7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elevenstand7)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there! 👋 Welcome to my Github Page. I am Yinyin Huang and I am learning different kinds of frontend and backend frameworks. I am proficient in several programming languages, including Python, JavaScript, Ruby, and C++.
 
